@@ -20,7 +20,7 @@
   --danger-color: #03A9F4;
   --url-color: var(--main-color);
   --background-image: url('https://i.imgur.com/cPHzEI7.png');
-  --background-shading: 100%;
+  --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
