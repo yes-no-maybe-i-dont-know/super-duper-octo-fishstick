@@ -59,7 +59,7 @@
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
-  --channel-color: rgba(255,255,255,1);
+  --channel-color: rgba(255,255,255,0.5);
   --muted-color: rgba(255,255,255,0.1);
   --online-color: #43b581;
   --idle-color: #faa61a;
