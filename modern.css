@@ -20,7 +20,7 @@
   --background-invert: 0%;
   --background-blur: 25px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://i.imgur.com/cPHzEI7.png');
+  --user-popout-image: url('https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -31,7 +31,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://i.imgur.com/cPHzEI7.png');
+  --user-modal-image: url('https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
