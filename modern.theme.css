@@ -11,7 +11,6 @@
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #C91B1B;
@@ -85,19 +84,6 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-  --rs-small-spacing: 2px;
-  --rs-medium-spacing: 2px;
-  --rs-large-spacing: 2px;
-  --rs-small-width: 2px;
-  --rs-medium-width: 2px;
-  --rs-large-width: 2px;
-  --rs-avatar-shape: 50%;
-  --rs-online-color: #43b581;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
-  --rs-phone-visible: block;
 }
 
 /* Any custom CSS below here */
