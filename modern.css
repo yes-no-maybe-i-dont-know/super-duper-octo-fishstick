@@ -19,7 +19,7 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-overlay: rgba(0,0,0,0);
   --user-popout-image: url('https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
@@ -30,7 +30,7 @@
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 0px;
   --user-modal-image: url('https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
@@ -41,7 +41,7 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
+  --user-modal-blur: 0px;
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
