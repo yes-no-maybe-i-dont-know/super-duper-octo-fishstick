@@ -18,7 +18,7 @@
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 0px;
+  --background-blur: 25px;
   --background-overlay: rgba(0,0,0,0);
   --user-popout-image: url('https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg');
   --user-popout-position: center;
