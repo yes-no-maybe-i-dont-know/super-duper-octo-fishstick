@@ -18,7 +18,7 @@
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 1px;
+  --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://upload.wikimedia.org/wikipedia/commons/4/49/A_black_image.jpg');
   --user-popout-position: center;
@@ -57,7 +57,7 @@
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
-  --backdrop-overlay: rgba(0,0,0,0);
+  --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
   --backdrop-size: var(--background-size);
