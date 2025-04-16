@@ -25,7 +25,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 10%;
-  --background-image: url(https://i.imgur.com/fLTKAwd.png);
+  --background-image: url(https://i.imgur.com/fLTKAwd);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
