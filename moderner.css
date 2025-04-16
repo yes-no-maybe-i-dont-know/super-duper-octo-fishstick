@@ -24,7 +24,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   /* APP BACKGROUND */
-  --background-shading-percent: 0%;
+  --background-shading-percent: 100%;
   --background-image: url(https://imgur.com/a/k7TKGQU);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
